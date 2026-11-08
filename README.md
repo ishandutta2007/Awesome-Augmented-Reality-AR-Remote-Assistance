@@ -66,7 +66,7 @@ Comprehensive comparison of industry-standard commercial Augmented Reality visua
 
 Community-driven repositories, proof-of-concept implementations, and open SDKs for constructing custom AR remote assistance, spatial annotations, and telepresence pipelines.
 
-| 📦 Repository & Project | ⭐ Stars Badge | 🛠️ Tech Stack & Platform | 📝 Description |
+| 📦 Repository & Project | ⭐ Stars_Badge | 🛠️ Tech Stack & Platform | 📝 Description |
 | :--- | :--- | :--- | :--- |
 | [**AgoraIO-Community/AR-Remote-Support**](https://github.com/AgoraIO-Community/AR-Remote-Support) | [![Stars](https://img.shields.io/github/stars/AgoraIO-Community/AR-Remote-Support?style=social&color=white)](https://github.com/AgoraIO-Community/AR-Remote-Support/stargazers) | iOS, ARKit, Agora RTC SDK | AR remote support proof-of-concept (similar to Vuforia Chalk) enabling real-time video collaboration and 3D annotations over WebRTC. |
 | [**limvi-licef/RemoteAssistanceAR**](https://github.com/limvi-licef/RemoteAssistanceAR) | [![Stars](https://img.shields.io/github/stars/limvi-licef/RemoteAssistanceAR?style=social&color=white)](https://github.com/limvi-licef/RemoteAssistanceAR/stargazers) | Unity, HoloLens, UWP, WebRTC | Augmented reality remote assistance system designed for Microsoft HoloLens and Windows clients with spatial anchor guidance. |
