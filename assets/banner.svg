@@ -36,6 +36,7 @@
   </defs>
 
   <style>
+    <![CDATA[
     .title-text {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
       font-weight: 800;
@@ -90,6 +91,7 @@
     .reticle-spin { animation: radarSpin 24s linear infinite; transform-origin: 1020px 210px; }
     .scanner-beam { animation: scanLine 6s ease-in-out infinite; }
     .ping-circle { animation: hudPing 2.5s cubic-bezier(0, 0.2, 0.8, 1) infinite; }
+    ]]>
   </style>
 
   <!-- Base Canvas -->
@@ -124,7 +126,7 @@
   </g>
 
   <text x="965" y="145" class="hud-text">TARGET: SPATIAL LOCK</text>
-  <text x="980" y="285" class="hud-text">LATENCY &lt; 20MS</text>
+  <text x="980" y="285" class="hud-text">LATENCY &amp;lt; 20MS</text>
   <text x="990" y="302" class="hud-text">WEBRTC P2P: ACTIVE</text>
 
   <!-- ================= FOREGROUND HERO CONTENT ================= -->
